@@ -2,7 +2,7 @@
 
 This is a minimalistic Pytorch implementation of style transfer by Gatys Et al. Meant to be run in google colab, though you can turn the COLAB flag off if running locally.  
 
-The idea is retain a candidate images 'content' while redering it in the 'style' of another reference image. This is best explained by looking at the images and the result themselves:
+The idea is retain a given image's 'content' while rendering it in the 'style' of another image. This is best explained by the diagram below:
    
 ![What's Style Transfer](https://raw.githubusercontent.com/tumble-weed/style-transfer/master/style_transfer_flowchart.png)
 
