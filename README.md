@@ -1,6 +1,6 @@
 # Easy to understand Image Style Transfer in Pytorch
 
-This is a minimalistic Pytorch implementation of style transfer by Gatys Et al. Meant to be run in google collab, though you can turn the COLAB flag off if running locally.  
+This is a minimalistic Pytorch implementation of style transfer by Gatys Et al. Meant to be run in google colab, though you can turn the COLAB flag off if running locally.  
 
 The idea is retain a candidate images 'content' while redering it in the 'style' of another reference image. This is best explained by looking at the images and the result themselves:
    
