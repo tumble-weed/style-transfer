@@ -181,7 +181,7 @@ if __name__ == '__main__':
                   transforms,
                   content,
                    style,
-                   nepochs  = 2400,
+                   nepochs  = 20,
                    style_lambda = 1000000
                   )
 
